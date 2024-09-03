@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on MERN
 - 📫 How to reach me saad.aziz@66loop.com
 - 😄 Pronouns: Devl
-- ⚡ Fun fact: Dev Mzdoor
 
 <!---
 saad66loop/saad66loop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
